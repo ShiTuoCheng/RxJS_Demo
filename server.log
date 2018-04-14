@@ -1,0 +1,5 @@
+ Listening on http://127.0.0.1:8080
+127.0.0.1 - GET / HTTP/1.1 200 36 - 33.487 ms
+127.0.0.1 - GET /index.js HTTP/1.1 200 213 - 3.433 ms
+127.0.0.1 - GET / HTTP/1.1 200 36 - 3.946 ms
+127.0.0.1 - GET /index.js HTTP/1.1 200 223 - 1.915 ms
