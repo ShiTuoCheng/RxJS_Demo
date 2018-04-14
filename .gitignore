@@ -1,6 +1,7 @@
 # mac
 .DS_Store 
 */.DS_Store 
+server.log
 #js
 node_module
 node_modules
